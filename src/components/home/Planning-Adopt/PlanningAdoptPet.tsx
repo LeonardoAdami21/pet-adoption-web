@@ -1,4 +1,3 @@
-import React from "react";
 import "./PlanningAdoptPet.css";
 import Card from "../Card/Card";
 

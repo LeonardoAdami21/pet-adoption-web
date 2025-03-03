@@ -1,3 +1,13 @@
+:root {
+  --orange: #fea034;
+  --hoverorange: #ff9317;
+  --Lightorange: rgb(231, 158, 75);
+  --white: white;
+  --black: black;
+  --textGrey: rgb(237, 233, 233);
+  --darkGrey: #1f2130;
+}
+
 .navbar-links li {
   display: inline;
   margin: 0 10px;
