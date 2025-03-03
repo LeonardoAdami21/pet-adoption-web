@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
-import logo from "../../assets/logo.png";
+import logo from "./img/logo.png";
 
 interface NavbarProps {
-  title?: string;
+  title: string;
 }
 
-const Navbar: React.FC = (props: NavbarProps) => {
+const Navbar = (props: NavbarProps) => {
   return (
     <div className="navbar-container">
       <div>
