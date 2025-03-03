@@ -1,7 +1,8 @@
-import girlHoldingADog from "../../images/girlHoldingADog.png";
+import girlHoldingADog from "../img/girlHoldingADog.png";
 import homepageDog from "../img/homepageDog.png";
 import footPrint from "../img/footPrint.png";
 import { Link } from "react-router-dom";
+import "./HomeLandind.css";
 
 interface HomeLandingContainerProps {
   description: string;
